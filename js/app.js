@@ -1,3 +1,4 @@
+const zero = document.getElementById("zero").value;
 // for c button
 function deleteMe() {
   document.getElementById("input-field").value = "";
